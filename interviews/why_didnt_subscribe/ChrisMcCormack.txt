@@ -1,0 +1,267 @@
+﻿Name
+	Chris McCormack
+	Contact Details
+	07446981932
+	Interview Date
+	16 Nov 15, 4:00pm
+	Audio
+	https://drive.google.com/open?id=0BzDRx2_iXHVzc01sb1NjdWNOMWc
+	Guide
+	https://docs.google.com/document/d/1o1-ybmHjUOs_wOB30HVsrUJNm749mgR30av69O6Omg0/edit#heading=h.pnel1vwls6yq
+	Subdomain
+	batmacklimited
+	Business Description
+	Design/Digital Strategy - http://www.batmack.com/
+	Business Type
+	UK Limited Company
+	Subscription duration
+	Didn’t subscribe
+	Social
+	https://www.linkedin.com/profile/view?id=5852352
+	Pic
+	 Chris McCormack 
+
+	
+
+Stories
+
+
+I have been running a business for a couple of years now and have had an accountant since day 1. A year in, you start looking to shortcut the boring admin bits that take too long –the invoicing, the categorising of receipts. It’s easy to do, but boring. I was mainly interested in improving the efficiency of my invoicing, I first tried out a couple of online tools that just did Invoicing, but they didn’t quite meet my needs. FreeAgent looked like it probably had the functionality I needed and looked pretty straightforward to use. And it was – great to use, though it lacked a couple of bits of important functionality that I really wanted.
+
+
+The most surprising aspect of using FreeAgent was the feeling of control I started to get. I thought : actually I could know this stuff, I could be in control, maybe it isn’t that complicated.
+
+
+In the end, it was too expensive for what I needed. Maybe if there was a cheaper plan to get me started, I’d probably grow in confidence and end up taking out a full plan.
+
+
+* Only needs to make admin process more efficient – how do we support people with this goal? This is probably the first time they’ve looked at finance software for their business, and FA may feel too much. How do we help this type of customer dip their toe in the water.
+* He could benefit from a cheaper plan, or a limited plan. A package that meets his price criteria, and helps him deal with his initial goal would help him gain confidence and perhaps upgrade in the fullness of time.
+* He gained a feeling of control and confidence from using it for 30 days. This was unexpected and met his latent long term need of doing everything for himself. How might we enhance this message, or make it more literal?
+
+
+What situation drove Chris to sign up to FreeAgent?
+
+
+* Chris got to a point in his business where he felt that he could improve some of the every-day processes. He wasn’t looking to change everything, but minor improvements here and there would be helpful. Perhaps in a few months or even a year, he might feel confident enough to make bigger changes. Chris used the phrase “shortcuts” when referring to improving business processes
+* His JTBD – To make improvements to my everyday business processes, once I’ve worked out what my biggest pain points are.
+* When I have a semi-mature business, I want to improve day-to-day processes so that I no longer have to do repetitive, boring tasks. 
+
+
+What jobs did he have to be done?
+
+
+
+
+What was his hiring criteria?
+
+
+Explicit
+
+
+* That FreeAgent would help him maximise the efficiency whilst sending invoices
+   * Specifically - didn’t have to hunt for the email addresses of the recipients of the invoice
+   * Could keep track of invoice status, without checking his email and bank statement
+   * Could send to multiple people
+Implicit 
+
+
+* That it cost around £15 per month (if he requires an accountant). £35 per month if he didn’t need an accountant.
+
+
+
+
+What caused Chris not to subscribe/what criteria weren’t met?
+
+
+* FreeAgent was too expensive for what he initially hired the product to do. His goal was to maximise invoicing efficiency, not get a full accounting package. In his mind, it was FreeAgent or accountant, and he wasn’t ready to not have an accountant.
+* He was evaluating invoicing only software alongside FreeAgent.
+* Ultimately FreeAgent didn’t meet his hiring criteria. It failed on price point, for what he was going to use it for. It failed on specific functionality, (see his specific invoicing criteria)
+
+
+What surprised Chris?
+
+
+* The feeling of control he got from using FreeAgent was unexpected, but wasn’t a strong enough force to counteract the expense.
+
+
+What could we change that would help persuade Chris to hire FreeAgent?
+
+
+* Reducing the price of FreeAgent may have convinced him to sign up. He had functional requirements around invoicing, but I think he would have found workarounds if the price was right.
+
+
+Consideration Set
+
+
+* Crunch (Didn’t take for a trial) –  the design didn’t look as nice and i think the cost was more
+* Freshbooks (Didn’t take for a trial) – too American 
+* https://invoice-generator.com/ (Tried) – free, but didn’t improve on his current situation due to lack of functionality
+* Non-consumption – his current way of doing things works, but he realises could be improved
+
+
+Notes
+
+
+Pre interview 
+Price was the reason for not subscribing
+9 active days
+Setup BDS bank feed
+
+
+Interview Notes
+
+
+* Digital product development consultant - self employed - companies pay him to set up teams to create digital products.
+* Started his own business, so he could work on products rather than deal with company politics. Wanted control over what he made and who he made it for.
+* Thing he was looking for
+   * First thing you do as a contractor is get an accountant
+   * Sign up to  an accountant
+   * Probably takes a year until you start to understand the accounting side of things
+   * Then you’re starting to sort the boring admin bits that take too long, the invoicing, the categorising of receipts.
+   * You start to look for shortcuts for that - one of the shortcuts was FreeAgent
+   * Primarily interested in the invoicing side
+   * Invoicing is easy to do, but boring, remembering the email address is difficult, it’s hidden away in your inbox somewhere.
+   * ^ he says that these are the reasons he signed up for it.
+* Main reason for not signing up - not ready to jettison his accountant, “the cost of having an accountant and the cost of FreeAgent are similar”
+* The reason for signing up for FreeAgent wasn’t to jettison his accountant – 30 days wouldn’t have been enough to make this decision anyway.
+* “In my ideal world I would sign up for the trial, I would buy a starter package for doing the invoicing, because that’s what I want, in time I might feel brave enough to jettison my accountant - there is no just use invoicing option. I’d have to try it over an extended period to work out if I can get rid of my accountant.
+* He looked at a couple of other pieces of software, but they were pretty rubbish. 
+* He wanted something online, he went onto the app store but his computer is running slow.
+* Would he have signed up for the full thing – he might have signed up, but it would take him a year or more to feel confident enough to get rid of his accountant.
+* Agrees that he signed up for FreeAgent for invoicing with the long term ambition of becoming more confident with accounts. [Can we have people on a lower priced tier until they become more confident and work out how they can do everything themselves]
+* Talking about his FreeAgent experience - enjoyed the graphs, made him feel good. Invoices giving him a spur to chase them. Felt a bit more in control rather than vaguely knowing how much money he was due. Started to calculate how much tax he was due, he really liked that.
+* What does he need to know if he were not to have an accountant - planning how his spend is broken down, what his allowances are for each year. “There’s a lot of knowledge in these people's brains that you have no idea about”.
+* Reasons for keeping the accountant - takes away most of the pain from you. Reasons for getting rid of an accountant - you have no control, or feeling of control, – you don’t have much confidence in him. “That’s the feeling I started to get from FreeAgent - actually I could know this stuff, I could be in control. That was the unexpected. Maybe it isn’t that complicated”
+* Didn’t contemplate sharing FreeAgent with his accountant - he’s got his own software package - I don’t talk to him that often – I can’t train him to use it.
+* The full cost of FA and an accountant is the same, so it’s one or the other. My business isn’t big, I’m not employing anyone, so it’s probably too much.
+* “If I was employing several people, my business would be complicated enough to warrant both”
+* Doesn’t think his accounts are complicated enough to warrant an accountant and FreeAgent.
+* A couple of functional things that FA didn’t fulfill for him
+   * Found making templated difficult
+   * Would like a template for each company he’s billing - saving contact details, purchase order no. just for that one company. Maybe it could do that, but he couldn’t work out how to do it.
+   * Quite a few of his invoices, he needs to send to multiple people, couldn’t work out how to cc other people in.
+   * Didn’t get in touch with support team – if it doesn’t do something, he’ll find a way of doing it.
+   * Scheduling invoices to go - He does his November bill now, then schedule it to be sent the last day of the month. He needs the confidence that it’s not going to send off an email without him knowing. “It’s scheduled to be sent later this month, but we’ll email you 24 hours before, so you can make sure everything is correct, or can cancel it if necessary”
+   * These were major things for him – as these were the questions he was trying to answer.
+* Hasn’t looked for anything else since the end of his trial - gone back to the rudimentary way of doing stuff.
+* He doesn’t often sign up for trials.
+* He found a free website that gave him some of the functionality but not enough, I tried that – half way there – but it’s free, but not enough functionality to bother. I’d rather have an accountant.
+* His peers all do their accountants on a spreadsheet. He asked them general questions about how they do their invoicing. All using spreadsheets and accountants. A couple use an umbrella company – some of the pain is taken away from them.
+* “When they start contracting, the quickest way is an umbrella company, they then end of talking to someone like me who is a bit further down the line, and they realise they don’t know what’s going on, they’ll never be able to grow, so they start wondering, should I set up as a limited company.
+* “It is the blind leading the blind, it really is”
+* Didn’t use expenses, or estimates (it’s not really the nature of his business)
+* At the time of the trial - someone had signed him up for 6 months, so he didn’t have a requirement for estimates.
+* Would probably start putting expenses in there if he got comfortable with the software. Though he does expenses every 3 months just before VAT is due, it didn’t tally with the trial. It takes hours to do expenses, so if I wasn’t signing up for FA for a year, I probably wouldn’t do it.
+* “I wouldn’t have signed up for the full package as it’s the same cost as my accountant - seems like a luxury”
+* If there was a longer trial and half the cost for certain items, I would probably be pushed over the line and sign up.
+
+
+Follow up questions
+
+
+If FreeAgent was free (Or perhaps a nominal fee of £5-10 per month), but capped to say sending 5/10 invoices a month, how would that help you?
+
+
+that would work (as long as I add more than one email address to send to and it could save those details) - and in time it would probably give me the confidence to take out a full plan. If all my invoices end up there, then slowly it will be harder for me to leave - eventually I’ll be faced with the decision to leave or commit!
+
+
+When you started out as a contractor, what did you use to manage your accounting?
+
+
+Excel spreadsheet, still do. Manage probably isn’t the right word though - they feel unmanaged to me.
+
+
+Did you use either an accountant or an umbrella company from day one of contracting?
+
+
+I used an accountant, but from the people I’ve talked to I’d guess the split is 50/50.
+
+
+Can you remember the software you looked at but didn't take for a trial? Was there a specific reason you didn't go any further with these?
+
+
+crunch and freshbooks - freshbooks looks American, and crunch - the design didn’t look as nice and i think the cost was more, simple as that. However, turns out someone on my team uses Crunch.
+
+
+When did you first hear about FreeAgent?
+
+
+I think I saw it on a crowdfunding website
+
+
+Were you aware of how much FreeAgent cost per month before you signed up for a free trial?
+
+
+yes - so I knew it was a possibility of paying full cost, if it replaced my accountant - which I wasn’t confident enough to do after 30 days.
+
+
+
+
+
+
+
+
+Timeline
+	First Thought
+	Day 2
+	Couldn’t work out how to send an invoice to more than one contact
+	Passive
+		Really enjoyed the overview, and the feeling of control that he was starting to get. 
+	Event 1
+	Day 5
+	Couldn’t create a unique invoicing template for each client
+	Active
+	
+
+	Looked at alternative invoicing software, https://invoice-generator.com, but that didn’t work.
+	Event 2
+	Day 15
+	Wasn’t sure he could properly evaluate the software in 30 days, not enough to make the decision to ditch his accountant
+	Deciding
+	
+
+	Decided not to subscribe as it was either FreeAgent or his accountant. He didn’t feel confident enough to ditch his accountant, and his invoicing hadn’t been dramatically improved.
+	Purchased
+	Day 30
+	Didn’t purchase anything
+	Consuming
+	
+
+	Not satisfied with his current solution, but can’t justify paying for FreeAgent and an accountant. 
+	Satisfaction
+	
+
+	Didn’t manage to find anything that would help, so still doing it the old way
+	
+
+Forces of Progress
+
+
+Push of the situation > 
+	Magnetism of the new solution > 
+	* Desire to decrease admin effort
+	* Cloud based software, his mac is running slow enough as it is
+* The unexpected feeling of control that FreeAgent game him
+* He became aware about how Tax he was due.
+
+
+	< Habit of the present
+	< Anxiety of the new solution
+	* Accountant (With his own accounting package) - even though he doesn’t have much confidence in him, they have a lot of knowledge.
+* His options are FreeAgent or Accountant, not both - due to cost of FA
+
+
+	* Anxious about jettisoning his accountant
+* Crucial aspect of subscribing is making sure that he’s confident in managing his own tax affairs.
+* Wasn’t assured that FA would meet his requirements:
+
+
+	
+
+
+
+   * Couldn’t create templates easily enough
+   * Wanted to have a unique template for each client
+   * Couldn’t work out how to send an invoice to more than one contact (He needed to cc someone)
+   * Wasn’t confident that he’d be reminded about scheduled invoices (He set these up at the beginning of the month, but wanted a reminder prior to it getting sent so that he could check stuff over)
