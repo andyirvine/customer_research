@@ -1,4 +1,4 @@
-﻿Name
+Name
 	Carla
 	Contact Details
 	
@@ -74,9 +74,11 @@ Push of the situation >
 	Magnetism of the new solution > 
 	* Invoicing is a pain
 * Doesn't have any insight into her business finances
+* Invoice [remove]
 
 
 	* Loves FreeAgent – so easy to understand
+
 * Overview and tax timeline really helped her get an understanding of her finances
 * Boyfriend uses it and recommends it
 	< Habit of the present
@@ -84,3 +86,4 @@ Push of the situation >
 	* Accountant has their own solution and won’t change 
 	* Bank reconciliation was more time consuming than in Pandol
 * She needed to export her accounts to give to her accountant
+* Invoice [remove]
